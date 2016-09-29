@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Learn By Images</string>
+	
+	<string name="image_description">Tap to select image</string>
+	 <string name="tags_header">Words tagged:</string>
+	 <string name="translate_header">Words translated:</string>
+	 
+	 <!-- Spinner related values -->
+    <string name="language1">Chinese</string>
+    <string name="language2">English</string>
+    <string name="language3">French</string>
+    <string name="language4">Hindi</string>
+    <string name="language5">Italian</string>
+    <string name="language6">Japanese</string>
+    <string name="language7">Korean</string>
+    <string name="language8">Russian</string>
+    <string name="language9">Spanish</string>
+</resources>
